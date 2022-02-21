@@ -13,8 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Martin Suarez is inviting you to:{" "}
-          <a href="https://nextjs.org">Next.js!</a>
+          Guerito wants you to click: <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
